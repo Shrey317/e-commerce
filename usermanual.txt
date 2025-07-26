@@ -1,0 +1,96 @@
+User Manual – “The Griller” Website
+
+Table of Contents
+1.	Introduction
+2.	Getting Started
+3.	Main Navigation
+o	Home
+o	About
+o	Service
+o	Menu
+o	Pages
+o	Contact
+o	Book a Table
+4.	Booking a Table
+o	Step-by-Step Reservation
+o	Confirmation Screen
+5.	Exploring Our Services
+o	Master Chefs
+o	Quality Food
+o	Online Order
+o	24/7 Service
+6.	Viewing the Menu
+7.	Additional Pages
+o	Our Team
+o	Testimonials
+8.	Contacting Us
+9.	Support
+
+1. Introduction
+Welcome to The Griller your destination for fire-grilled perfection. Our user-friendly website lets you explore our offerings, reserve a table, and learn more about our team and services, all in a few clicks.
+
+2. Getting Started
+1.	Open your web browser and navigate to the site’s URL.
+2.	On the Home page, you’ll see our hero banner with a brief tagline and a “Book a Table” button.
+
+3. Main Navigation
+Menu Item	Description
+Home	Returns you to the landing page with hero banner and service highlights.
+About	Learn about our story, mission, and values.
+Service	Overview of what we offer (dine-in, takeout, delivery, catering).
+Menu	Browse our dishes by category (starters, mains, desserts, beverages).
+Pages	Dropdown containing:
+	• Booking – Reservation form (alternate entry point)
+	• Our Team – Meet our chefs and staff
+	• Testimonial – Customer reviews and ratings
+Contact	Contact form and location details.
+Book a Table	Prominent button (always visible) linking directly to the reservation form.
+
+4. Booking a Table
+Step-by-Step Reservation
+1.	Click Book a Table (either in the top-right corner or via the hero section).
+2.	Fill in the required fields on the Booking page:
+o	Name
+o	Email
+o	Date & Time(use the date picker and time)
+o	Number of Guests
+3.	(Optional) Add any special requests or dietary notes in the “Comments” box.
+4.	Click Submit.
+Confirmation Screen
+•	After submitting, you’ll be directed to a Confirmation screen summarizing your reservation details.
+
+5. Exploring Our Services
+Below the hero section, you’ll find four cards highlighting our core offerings:
+Master Chefs
+Showcases our kitchen team and their culinary expertise.
+Quality Food
+Emphasizes fresh, high-quality ingredients.
+Online Order
+Information on placing orders for pickup or delivery.
+24/7 Service
+How to reach us anytime with questions or support.
+
+6. Viewing the Menu
+Select Menu from the top navigation.
+Browse by category: Breakfast, Lunch and Drinks.
+
+7. Additional Pages
+•	Our Team
+o	Meet the chefs
+•	Testimonial
+o	Read customer reviews and leave your own feedback.
+Access these via Pages → Our Team or Pages → Testimonial.
+
+8.	Contacting Us
+1.	Click Contact in the main menu.
+2.	Fill out the contact form with:
+o	Name, Email, Subject, Message.
+3.	Submit to send an email directly to our support team.
+4.	Our location map and phone number are displayed below the form for in-person visits or calls.
+
+9.	Support
+If you encounter any issues or have further questions:
+•	Email us via the Contact page.
+•	Call our 24/7 support hotline (number listed on Contact page).
+•	Chat with us using the support icon at the bottom-right of every page.
+Thank you for choosing The Griller we look forward to serving you!
